@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ralph Gabriel Mendoza 👋</h1>
-<img align="right" alt="kat" width="300" src="https://tenor.com/view/travis-scott-meal-travis-scott-travis-scott-burger-mcdonalds-gif-19928906.gif">
+<img align="right" alt=":)" width="300" src="https://tenor.com/view/kirby-roblox-blender-kirb-man-face-gif-23759252.gif">
 
 I'm <i><b>Ralph Gabriel Mendoza</i></b>, a passionate mechatronics engineering student with a keen interest in combining mechanical, electrical, and software engineering to create innovative solutions. I'm excited about learning and exploring new technologies to tackle real-world challenges.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ralphgrm&label=Profile%20views&color=0e75b6&style=flat"/></p>
